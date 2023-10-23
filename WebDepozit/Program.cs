@@ -5,6 +5,8 @@ using WebDepozit.Services.Realization;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//jiiknknkjjninijinoijiunui
+
 builder.Services.AddScoped<IDepozitCalculateService, DepozitCalculateService>();
 builder.Services.AddScoped<DataContext>();
 
